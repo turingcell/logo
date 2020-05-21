@@ -1,5 +1,7 @@
 # Logos of TuringCell
 
+![small_logo](logo_small_icon.png)
+
 ## License and Copyright
 
 Author: Sen Han (韩森) <00hnes@gmail.com>
