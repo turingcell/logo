@@ -6,7 +6,7 @@ Author: Sen Han (韩森) <00hnes@gmail.com>
 
 Source: https://github.com/turingcell/logo
 
-License: CC BY-ND 4.0 https://creativecommons.org/licenses/by-nd/4.0/
+License: [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)
 
 ## Acknowledgements
 
